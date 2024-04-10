@@ -1,0 +1,33 @@
+.centralizado {
+    text-align: center;
+    line-height: 1.5;
+}
+body {
+    font-family: Arial;
+    background: linear-gradient(to bottom, rgb(6, 99, 6), white);
+}
+img {
+    border-radius: 150px;
+}
+.margem {
+    padding: 0 0 0 300px;
+    text-align: center;
+}
+.idexp {
+    text-align: right;
+}
+.idasp {
+    text-align: center;
+    padding: 0 0 0 100px;
+}
+.margem2 {
+    position: relative;
+    left: 100px;
+}
+.margem3 {
+    position: relative;
+    left: 350px;
+}
+#icon {
+    border-radius: 100px;
+}
